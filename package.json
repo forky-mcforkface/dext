@@ -73,7 +73,7 @@
     "browser-bookmarks": "^0.3.0",
     "deep-assign": "^2.0.0",
     "dext-core-utils": "^0.5.1",
-    "electron": "^1.8.4",
+    "electron": "^15.5.5",
     "escope": "^3.6.0",
     "glamor": "^2.17.14",
     "is_js": "^0.9.0",
