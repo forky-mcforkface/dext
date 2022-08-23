@@ -80,7 +80,7 @@
     "markdown-it": "^8.0.1",
     "mathjs": "^3.6.0",
     "npm": "^5.8.0",
-    "plist": "^2.0.1",
+    "plist": "^3.0.5",
     "prop-types": "^15.6.1",
     "react": "16.3.2",
     "react-dom": "16.3.2",
